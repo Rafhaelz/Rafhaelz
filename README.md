@@ -24,7 +24,6 @@
 
 ## ⭐️ Sobre mim
 <div align='center'>
-  <b>“O indivíduo sempre teve que lutar para não ser oprimido pela tribo. Se você tentar, ficará muitas vezes sozinho e, às vezes, com medo. Mas nenhum preço é alto demais a pagar pelo privilégio de possuir a si mesmo.” - Nietzsche</b>
 </div><br>
 Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024) e atualmente sou <b>Estagíario de Desenvolvimento de Software</b> no FIT - Instituto de Tecnologia da Amazônia. Na área de programação meu foco está sendo em <b>Angular</b> e atualmente trabalho com <b>Front-end</b> (Angular e Flutter). Também estou me especializando em <b>Automação de Testes<b> com (Robot e Cypress).
 <br><br>
@@ -48,3 +47,5 @@ Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024)
     </tr>
   </table>
 </div>
+<br/>
+<b>“O indivíduo sempre teve que lutar para não ser oprimido pela tribo. Se você tentar, ficará muitas vezes sozinho e, às vezes, com medo. Mas nenhum preço é alto demais a pagar pelo privilégio de possuir a si mesmo.” - Nietzsche</b>
