@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Rafhael ⭐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-rafhael-40451516b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rafhael-40451516b/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/1110.100.10010?igshid=YmMyMTA2M2Y=)
 [![Spotify](	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/7tohefguq9aeehn700si1tpgo?si=9ea8078a167b4801)
 
