@@ -25,7 +25,7 @@
 ## ⭐️ Sobre mim
 <div align='center'>
 </div><br>
-Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024), atuei como <b>Estagíario de Desenvolvimento de Software</b> no FIT - Instituto de Tecnologia da Amazônia (2022-2023) com foco em Front-end, atualmente sou Analista de teste Jr(QA) na Itriad - Institudo de Pesquisa e Desenvolvimento. Na área de qualidade de software meu foco está sendo em automação com Cypress e Robot. 
+Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024), atuei como <b>Estagíario de Desenvolvimento de Software</b> no FIT - Instituto de Tecnologia da Amazônia (2022-2023) com foco em Front-end, atualmente sou <b>Analista de teste Jr(QA)</b> na Itriad - Institudo de Pesquisa e Desenvolvimento. Na área de qualidade de software meu foco está sendo em automação com Cypress e Robot. 
 <br><br>
 <div align="center">
   <table>
