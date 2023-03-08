@@ -34,7 +34,7 @@ Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024)
         <b>🎓 Estudante de programação</b>
       </td>
       <td>
-        <b>🧪 Intern (QA/Front-end)</b>
+        <b>🧪 QA Analyst JR</b>
       </td>
     </tr>
     <tr>
