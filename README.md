@@ -25,7 +25,7 @@
 ## ⭐️ Sobre mim
 <div align='center'>
 </div><br>
-Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024) e atualmente sou <b>Estagíario de Desenvolvimento de Software</b> no FIT - Instituto de Tecnologia da Amazônia, atuando como Dev(Front-end) e Tester(QA). Na área de programação meu foco está sendo em <b>Angular</b> e atualmente trabalho com <b>Front-end</b> (Angular e Flutter). Também estou me especializando em <b>Automação de Testes<b> com (Robot e Cypress).
+Graduando <b>Análise e Desenvolvimento de Sistemas</b> pela Fametro (2022-2024), atuei como <b>Estagíario de Desenvolvimento de Software</b> no FIT - Instituto de Tecnologia da Amazônia (2022-2023) com foco em Front-end, atualmente sou Analista de teste Jr(QA) na Itriad - Institudo de Pesquisa e Desenvolvimento. Na área de qualidade de software meu foco está sendo em automação com Cypress e Robot. 
 <br><br>
 <div align="center">
   <table>
